@@ -29,8 +29,6 @@
   - Edit
   - Delete
 
-Note: as you may notice, 'Stars System' is not required but desired feature.
-
 ### Main Models and Basic Fields
 
 * User
