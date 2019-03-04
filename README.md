@@ -11,7 +11,6 @@
 * Post
   - Users can add posts
   - Users can comment on their own or other people's posts
-  - Users can give stars (from 1 to 5) on other people's posts [! this is not required but desired feature !]
 * All Posts (posts from all users)
   - Listing
   - Search (in title and description)
@@ -21,12 +20,9 @@
     * description
     * link to go single post view
     * all comments count
-    * all 'reviews' count (how many people give stars to this post) [! this is not required but desired feature !]
-    * average of stars [! this is not required but desired feature !]
 * Single Post View
   - Users can view post details where all comments will be listed (No need for nested comments, one level comments are just fine)
   - Viewer can add comment to post in this page.
-  - Viewer can give stars (from 1 to 5) to post. [! this is not required but desired feature !]
 * Manage own posts - CRUD (no need comments and stars here, just basic fields)
   - List
   - View 
