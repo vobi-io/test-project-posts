@@ -22,7 +22,7 @@
 * Single Post View
   - Users can view post details where all comments will be listed (No need for nested comments, one level comments are just fine)
   - Viewer can add comment to post in this page.
-* Manage own posts - CRUD (no need comments and stars here, just basic fields)
+* Manage own posts - CRUD (no need comments here, just basic fields)
   - List
   - View 
   - Create
