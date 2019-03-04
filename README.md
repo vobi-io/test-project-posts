@@ -14,7 +14,6 @@
 * All Posts (posts from all users)
   - Listing
   - Search (in title and description)
-  - Sorting (last modified, last added)
   - Each post in the list must have:
     * title
     * description
